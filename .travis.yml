@@ -2,6 +2,5 @@ sudo: required
 language: ruby
 
 script:
-  - apt-get install shuf
   - chmod +x meshi
   - ./meshi
